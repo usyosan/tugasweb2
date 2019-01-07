@@ -1,8 +1,8 @@
 # tugasweb2
 script bootstrap web II Kelompok 1<br>
-Anggota : 
-Yosan Erwanto
-Dani Rivaldi
-Sidik Kamseno
-Firman Arisando
+Anggota : <br>
+Yosan Erwanto <br>
+Dani Rivaldi <br>
+Sidik Kamseno <br>
+Firman Arisando <br>
 M. Iqbal
